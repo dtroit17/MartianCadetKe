@@ -5,6 +5,8 @@ Martian Cadet Concept Game
 
 # Martian Cadet: Reclaim Mars
 
+https://www.canva.com/design/DAGRwp6mgns/2K7o9b67vUhqvbKrY6uobg/view?utm_content=DAGRwp6mgns&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## Overview
 
 **Martian Cadet: Reclaim Mars** is an action-packed first-person shooter (FPS) game set in a richly detailed Mars environment. Inspired by the **Martian Cadet** project, this game combines elements of space exploration, environmental restoration, and intense combat. Players take on the role of Kenyan Martian Cadets, who were part of the 2020 Mars Mission onboard the Perseverance rover, as they fight to reclaim Mars from intergalactic threats and discover the planet's hidden potential.
@@ -44,7 +46,6 @@ As a Martian Cadet, you must:
 - **Multiplayer Mode**: Team up with other players to tackle cooperative missions or compete in PvP battles.
 - **Customization**: Personalize your cadet with various spacesuits, weapons, and gadgets, including NFTs earned through gameplay.
 
-## First Person Shooter Mode concept
 
 
 ## License
