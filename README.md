@@ -44,10 +44,8 @@ As a Martian Cadet, you must:
 - **Multiplayer Mode**: Team up with other players to tackle cooperative missions or compete in PvP battles.
 - **Customization**: Personalize your cadet with various spacesuits, weapons, and gadgets, including NFTs earned through gameplay.
 
+## First Person Shooter Mode concept
 
-## Contributing
-
-We welcome contributions from the community! If you're interested in helping us improve **Martian Cadet: Reclaim Mars**, please visit our [GitHub repository](https://github.com/your-repo) to get started.
 
 ## License
 
