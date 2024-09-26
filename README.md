@@ -9,6 +9,12 @@ Martian Cadet Concept Game
 
 **Martian Cadet: Reclaim Mars** is an action-packed first-person shooter (FPS) game set in a richly detailed Mars environment. Inspired by the **Martian Cadet** project, this game combines elements of space exploration, environmental restoration, and intense combat. Players take on the role of Kenyan Martian Cadets, who were part of the 2020 Mars Mission onboard the Perseverance rover, as they fight to reclaim Mars from intergalactic threats and discover the planet's hidden potential.
 
+## Inspo
+
+https://www.canva.com/design/DAF7YdoWM9c/eGIosx05c3mKSiAUCX_uKA/view?utm_content=DAF7YdoWM9c&utm_campaign=designshare&utm_medium=link&utm_source=editor
+https://github.com/dtroit17/sorobanKE.git
+
+
 ## Features
 
 - **Immersive Mars Environment**: Explore a beautifully rendered Martian landscape, complete with realistic terrain, weather effects, and ancient Martian ruins.
@@ -36,11 +42,6 @@ As a Martian Cadet, you must:
 - **Multiplayer Mode**: Team up with other players to tackle cooperative missions or compete in PvP battles.
 - **Customization**: Personalize your cadet with various spacesuits, weapons, and gadgets, including NFTs earned through gameplay.
 
-## Installation
-
-1. **Download**: Visit our official website to download the game installer.
-2. **Install**: Run the installer and follow the on-screen instructions.
-3. **Launch**: Start the game and create your Martian Cadet profile.
 
 ## Contributing
 
@@ -52,7 +53,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For more information, visit our [website](https://www.martiancadet.com) or contact us at [support@martiancadet.com](mailto:support@martiancadet.com).
+For more information, visit our project presentation(https://www.canva.com/design/DAF7YdoWM9c/eGIosx05c3mKSiAUCX_uKA/view?utm_content=DAF7YdoWM9c&utm_campaign=designshare&utm_medium=link&utm_source=editor) or contact us at (createkaruri01@gmail.com)
 
 ---
 
@@ -60,4 +61,4 @@ Embark on an epic journey to reclaim Mars and restore life to the Red Planet. Jo
 
 ---
 
-Feel free to customize this README file further to match your specific needs and vision for the game. If you have any additional details or features you'd like to include, let me know!
+
