@@ -18,6 +18,11 @@ https://www.canva.com/design/DAF7YdoWM9c/eGIosx05c3mKSiAUCX_uKA/view?utm_content
 Project submitted for the "Build Better on Stellar : Smart Contract Challenge"
 https://github.com/dtroit17/sorobanKE.git
 
+Behance UI Inspo
+https://www.behance.net/gallery/51952829/Mass-Effect-Andromeda-User-Interface-Design/modules/307097411
+
+![5901fa51952829 58ff93d422258](https://github.com/user-attachments/assets/8deab353-e20a-4b8f-a530-3037c9b75c33)
+
 
 ## Features
 
@@ -32,6 +37,10 @@ https://github.com/dtroit17/sorobanKE.git
 ## Storyline
 
 In the year 2020, a group of Kenyan Martian Cadets embarked on a historic mission to Mars as part of NASA's Send Your Name to Mars program. Onboard the Perseverance rover, they discovered that indigenous trees from Mt. Kenya have the potential to grow on Mars, offering a chance to restore life to the barren planet. However, their mission is fraught with danger as interplanetary life forms also seek to claim Mars for its newfound value.
+
+The indigenous tree concept comes from the recent CNN’s Wonder Theory published newsletter "Scientists grow mystery tree from 1,000-year-old seed"
+https://edition.cnn.com/2024/10/05/science/ancient-seed-biblical-tree-wt-science-newsletter/index.html
+
 
 As a Martian Cadet, you must:
 
